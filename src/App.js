@@ -5,7 +5,7 @@ export default function App() {
 
   return (
       <div>
-        <h1>Welcome{start}.</h1>
+        <h1>Welcome {start}.</h1>
         <h2>This is my first React Lesson.</h2>
         <p>My first name is {Name}.</p>
         <p>I am a student of {company} doing a 5 weeks program.</p>
